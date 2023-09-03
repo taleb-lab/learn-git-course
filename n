@@ -1,0 +1,23 @@
+[33mcommit 50d555256638e90ddc03c4ed4a36a5802f18ee5d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: taleb <m.taleb2061@gmail.com>
+Date:   Thu Aug 31 16:55:25 2023 +0330
+
+    gitignore file added
+
+[33mcommit 955ccf3d18b074431a848e09fbdc6a666a7d4c84[m
+Author: taleb <m.taleb2061@gmail.com>
+Date:   Thu Aug 31 16:40:59 2023 +0330
+
+    last change
+
+[33mcommit 5a643afc6b3973e2ad08ad854cbfc2756ed37896[m
+Author: taleb <m.taleb2061@gmail.com>
+Date:   Thu Aug 31 16:00:30 2023 +0330
+
+    one line added
+
+[33mcommit 4e7f719a1bcd2ce3d2fe8f864ba52e99b15b21f8[m
+Author: taleb <m.taleb2061@gmail.com>
+Date:   Thu Aug 31 15:37:51 2023 +0330
+
+    initial commit
